@@ -18,6 +18,7 @@
 
 ## ⬇️ 安装
 ### Chrome，Edge 或基于 Chromium 内核的浏览器。
+> [!CAUTION]
 > 由于作者**无法注册**Google开发者账户，故**不提供**在线安装方式
 1. 前往[发行版 (`Release`)][download-url]页面下载`extension.zip`文件
 2. 打开开发者模式（如果需要）
@@ -26,6 +27,8 @@
 ### Firefox 或基于 Gecko 内核的浏览器
 敬请期待
 
+## 开发指南
+详见[开发指南](CONTRIBUTING.md)。
 ## 使用方法
 1. 打开需要登录展开全文的知乎专栏，如果弹出登录框记得关闭！
 2. 直接点击"展开阅读全文"，稍后在新页面直接查看完整内容！
@@ -49,7 +52,8 @@
 本仓库采用[GPL-3.0许可证][LICENSE]。
 
 ## ❤️ 鸣谢
-- ChatGPT4 - 代码编写者
+- ChatGPT-4o - 代码编写
+- TC999 - 代码调试，项目作者以及仓库所有者
 
 <!-- 链接开始 -->
 [issues-url]: https://github.com/TC999/zhihu-full-show/issues "议题"
