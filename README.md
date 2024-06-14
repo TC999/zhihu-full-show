@@ -8,33 +8,32 @@
  [![hits][hits-image]][hits-url]
 
 ## 👋 介绍
-本项目修复了知乎网页版未登录文章不完整的BUG，修复后，您可以在知乎网页版中查看完整文章。
+本项目修复了知乎网页版未登录文章不完整的BUG，修复后，~~您可以在知乎网页版中查看完整文章~~，您可以在新页面上查看完整文章。
 对知乎的吐槽以及本插件实现原理请点击[这里](docs/原理以及吐槽.md)。
 
 本插件使用 **TypeScript** 编写。如果有什么建议或提交BUG请提交 [议题(`issue`)][issues-url]或参与 [讨论(`discussion`)][discussions-url]。
 
-## 目录
+
 
 ## ⬇️ 安装
-### Chrome，Edge 或基于 Chromium 内核的浏览器
-> [!TIP]
-> 如果使用 [Ungoogled-Chromuim][Ungoogled-Chromuim-url]或者[狐猴浏览器(Android)][LemurBrowser-url]，直接在发行版页面点击 `extension.crx` 文件即可安装。
-1. 前往发行版页面下载`extension.zip`文件
-2. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，只需将下载的 `extension.zip` 文件拖放到浏览器中即可完成安装。
+### Chrome，Edge 或基于 Chromium 内核的浏览器。
+> 由于作者**无法注册**Google开发者账户，故**不提供**在线安装方式
+1. 前往[发行版 (`Release`)](https://github.com/TC999/zhihu-full-show/releases/latest)页面下载`extension.zip`文件
+2. 打开开发者模式（如果需要）
+3. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，只需将下载的 `extension.zip` 文件拖放到浏览器中即可完成安装。
 
 ### Firefox 或基于 Gecko 内核的浏览器
 敬请期待
 
 ## 使用方法
 1. 打开需要登录展开全文的知乎专栏，如果弹出登录框记得关闭！
+2. 直接点击"展开阅读全文"，稍后在新页面直接查看完整内容！
 > [!TIP]
 > 可以使用[GreasyFork脚本][zhihu-enhance-url]自动关闭登录框。
 
 ## ✔ 待办(TODO)
 
-- [ ] 自动关闭登录窗口
-- [ ] 自动替换元素
-- [ ] 深色模式
+- [ ] 自动替换元素(仓库内有代码，暂时无法实现)
 - [ ] 多语言适配(好像没啥必要)
 
 ## 为本项目做贡献
