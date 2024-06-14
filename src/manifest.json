@@ -1,20 +1,33 @@
 {
   "manifest_version": 3,
-  "name": "Zhihu Article Manipulator",
+  "name": "知乎全部显示",
   "version": "1.0",
-  "description": "Manipulates Zhihu articles as per user actions",
-  "permissions": ["tabs", "activeTab", "scripting"],
+  "description": "修复未登录文章不完整的BUG",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://zhuanlan.zhihu.com/*",
+    "https://www.zhihu.com/appview/*"
+  ],
   "background": {
     "service_worker": "background.js"
   },
   "content_scripts": [
     {
       "matches": [
-        "https://zhuanlan.zhihu.com/*",
-        "https://www.zhihu.com/appview/*",
-        "http://www.zhihu.com/appview/*"
+        "https://zhuanlan.zhihu.com/*"
       ],
       "js": ["content.js"],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "https://www.zhihu.com/appview/*"
+      ],
+      "js": ["newPageContent.js"],
       "run_at": "document_end"
     }
   ],
