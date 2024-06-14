@@ -1,4 +1,4 @@
-# [知乎全部显示][project-url]：修复知乎网页版需要登录才能查看完整专栏的BUG
+# [知乎全部显示][repo-url]：修复知乎网页版需要登录才能查看完整专栏的BUG
  [![GitHub issues][issues-image]][issues-url]
  [![Github Pulls][pulls-image]][pulls-url]
  [![GitHub stars][stars-image]][stars-url]
@@ -17,9 +17,9 @@
 
 
 ## ⬇️ 安装
-### Chrome，Edge 或基于 Chromium 内核的浏览器。
+### Chrome 或基于 Chromium 内核的浏览器
 > [!CAUTION]
-> 由于作者**无法注册**Google开发者账户，故**不提供**在线安装方式
+> 由于作者无法注册Google开发者账户，故不提供在线安装方式
 1. 前往[发行版 (`Release`)][download-url]页面下载`extension.zip`文件
 2. 打开开发者模式（如果需要）
 3. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，只需将下载的 `extension.zip` 文件拖放到浏览器中即可完成安装。
@@ -33,18 +33,18 @@
 1. 打开需要登录展开全文的知乎专栏，如果弹出登录框记得关闭！
 2. 直接点击"展开阅读全文"，稍后在新页面直接查看完整内容！
 > [!TIP]
-> 可以使用[GreasyFork脚本][zhihu-enhance-url]自动关闭登录框。
+> 可以使用[篡改猴脚本][zhihu-enhance-url]自动关闭登录框。
 
 ## ✔ 待办(TODO)
 
-- [ ] 自动替换元素(仓库内有代码，暂时无法实现)
+- [ ] 自动替换元素(仓库内有相应代码，但暂时无法实现，急需大佬PR)
 - [ ] 多语言适配(好像没啥必要)
 
-## 为本项目做贡献
+## 贡献
 > [!IMPORTANT]
-> 请在Git上提前设置GPG密钥，如果不知道如何操作请查看[Github官方文档][github-doc-gpg-url]
+> 请提前设置GPG密钥，具体操作请查看[Github官方文档][github-doc-gpg-url]
 1. 复刻`(Fork)`此仓库
-2. 创建一个分支`(Branch)`并以功能命名
+2. 创建一个分支`(Branch)`并以你修改的功能命名
 3. 将代码拉到本地修改并提交`(Commit)`
 4. 创建一个拉取请求`(Pull Request)`
 
@@ -73,7 +73,7 @@
 [hits-url]: https://hits.dwyl.com/ "访问量"
 [hits-image]: https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTC999%2Fzhihu-full-show.json%3Fcolor%3Dgreen&label=%E8%AE%BF%E9%97%AE%E9%87%8F 
 
-[project-url]: https://github.com/TC999/zhihu-full-show "项目地址"
+[repo-url]: https://github.com/TC999/zhihu-full-show "仓库地址"
 
 [repo-size-url]: https://img.shields.io/github/repo-size/TC999/zhihu-full-show?style=flat&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F "仓库大小"
 [repo-size-image]: https://img.shields.io/github/repo-size/TC999/zhihu-full-show?style=flat&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F
