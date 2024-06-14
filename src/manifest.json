@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Zhihu Article Manipulator",
+  "version": "1.0",
+  "description": "Manipulates Zhihu articles as per user actions",
+  "permissions": ["tabs", "activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://zhuanlan.zhihu.com/*",
+        "https://www.zhihu.com/appview/*",
+        "http://www.zhihu.com/appview/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "my-chrome-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension to manipulate Zhihu articles.",
+  "main": "src/background.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "typescript": "^4.0.0"
+  }
+}
