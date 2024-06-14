@@ -12,7 +12,7 @@
 本项目修复了知乎网页版未登录专栏不完整的BUG，修复后，您可以~~在知乎网页版中查看完整文章~~在新页面上查看完整文章。
 对知乎的吐槽以及本插件实现原理请点击[这里](docs/原理以及吐槽.md)。
 
-本插件使用 **TypeScript** 编写。如果有什么建议或提交BUG请提交 [议题(`issue`)][issues-url]或参与 [讨论(`discussion`)][discussions-url]。
+本插件使用 **TypeScript** 编写。如果有什么建议或提交BUG请提交[议题(`issue`)][issues-url]或参与[讨论(`discussion`)][discussions-url]。
 
 > [!TIP]
 > 本插件自带日志系统，如有BUG请按F12进入控制台查看日志
@@ -58,7 +58,7 @@
 
 ## ❤️ 鸣谢
 - ChatGPT-4o - 代码编写
-- TC999 - 代码调试，仓库所有者，作者
+- [TC999](https://github.com/TC999) - 代码调试，仓库所有者，作者
 
 <!-- 链接开始 -->
 [issues-url]: https://github.com/TC999/zhihu-full-show/issues "议题"
