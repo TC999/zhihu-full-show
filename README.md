@@ -3,6 +3,7 @@
  [![Github Pulls][pulls-image]][pulls-url]
  [![GitHub stars][stars-image]][stars-url]
  [![GitHub forks][forks-image]][forks-url]
+ [![Github Downloads][download-image]][download-url]
  [![license][license-image]][license-url] 
  [![repo-size][repo-size-image]][repo-size-url]
  [![hits][hits-image]][hits-url]
@@ -18,7 +19,7 @@
 ## ⬇️ 安装
 ### Chrome，Edge 或基于 Chromium 内核的浏览器。
 > 由于作者**无法注册**Google开发者账户，故**不提供**在线安装方式
-1. 前往[发行版 (`Release`)](https://github.com/TC999/zhihu-full-show/releases/latest)页面下载`extension.zip`文件
+1. 前往[发行版 (`Release`)][download-url]页面下载`extension.zip`文件
 2. 打开开发者模式（如果需要）
 3. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，只需将下载的 `extension.zip` 文件拖放到浏览器中即可完成安装。
 
@@ -72,6 +73,9 @@
 
 [repo-size-url]: https://img.shields.io/github/repo-size/TC999/zhihu-full-show?style=flat&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F "仓库大小"
 [repo-size-image]: https://img.shields.io/github/repo-size/TC999/zhihu-full-show?style=flat&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F
+
+[download-url]: https://github.com/TC999/zhihu-full-show/releases/latest "下载"
+[download-image]: https://img.shields.io/github/downloads/TC999/zhihu-full-show/total?style=flat&label=%E4%B8%8B%E8%BD%BD%E6%95%B0&%3Fcolor%3Dblue "总下载数"
 
 [LemurBrowser-url]: https://lemurbrowser.com "狐猴浏览器"
 
