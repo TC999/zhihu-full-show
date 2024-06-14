@@ -1,7 +1,7 @@
 # 开发指南
-本插件使用 **TypeScript** 编写。请确保你已经安装[Nodejs](https://nodejs.org/)和[pnpm](https://pnpm.io/zh)，同时建议使用[Visual Studio Code](https://code.visualstudio.com/)作为开发工具。
+本插件使用 **TypeScript** 编写。请确保你已经安装[Nodejs](https://nodejs.org)和[pnpm](https://pnpm.io/zh)，同时建议使用[Visual Studio Code](https://code.visualstudio.com)作为开发工具。
 
-1. 克隆本仓库到本地：
+1. 克隆仓库到本地：
 ```shell
 git clone https://github.com/TC999/zhihu-full-show.git
 ```
