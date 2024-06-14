@@ -1,4 +1,4 @@
-# [知乎全部显示][project-url]：修复知乎网页版需要登录才能查看完整文章的BUG
+# [知乎全部显示][project-url]：修复知乎网页版需要登录才能查看完整专栏的BUG
  [![GitHub issues][issues-image]][issues-url]
  [![Github Pulls][pulls-image]][pulls-url]
  [![GitHub stars][stars-image]][stars-url]
@@ -9,7 +9,7 @@
  [![hits][hits-image]][hits-url]
 
 ## 👋 介绍
-本项目修复了知乎网页版未登录文章不完整的BUG，修复后，~~您可以在知乎网页版中查看完整文章~~，您可以在新页面上查看完整文章。
+本项目修复了知乎网页版未登录专栏不完整的BUG，修复后，您可以~~在知乎网页版中查看完整文章~~在新页面上查看完整文章。
 对知乎的吐槽以及本插件实现原理请点击[这里](docs/原理以及吐槽.md)。
 
 本插件使用 **TypeScript** 编写。如果有什么建议或提交BUG请提交 [议题(`issue`)][issues-url]或参与 [讨论(`discussion`)][discussions-url]。
@@ -53,7 +53,7 @@
 
 ## ❤️ 鸣谢
 - ChatGPT-4o - 代码编写
-- TC999 - 代码调试，项目作者以及仓库所有者
+- TC999 - 代码调试，仓库所有者，作者
 
 <!-- 链接开始 -->
 [issues-url]: https://github.com/TC999/zhihu-full-show/issues "议题"
