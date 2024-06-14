@@ -14,6 +14,8 @@
 
 本插件使用 **TypeScript** 编写。如果有什么建议或提交BUG请提交 [议题(`issue`)][issues-url]或参与 [讨论(`discussion`)][discussions-url]。
 
+> [!TIP]
+> 本插件自带日志系统，如有BUG请按F12进入控制台查看日志
 
 
 ## ⬇️ 安装
