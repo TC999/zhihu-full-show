@@ -4,7 +4,7 @@
  [![GitHub stars][stars-image]][stars-url]
  [![GitHub forks][forks-image]][forks-url]
  [![Github Downloads][download-image]][download-url]
- [![license][license-image]][license-url] 
+ [![license][license-image]][license-url]
  [![repo-size][repo-size-image]][repo-size-url]
  [![hits][hits-image]][hits-url]
 
@@ -34,6 +34,9 @@
 详见[开发指南](CONTRIBUTING.md)。
 ## 使用方法
 1. 打开需要登录展开全文的知乎专栏，如果弹出登录框记得关闭！
+
+<video src="docs/演示.mp4" controls="controls"></video>
+
 2. 直接点击"展开阅读全文"，稍后在新页面直接查看完整内容！
 > [!TIP]
 > 可以使用[篡改猴脚本][zhihu-enhance-url]自动关闭登录框。
