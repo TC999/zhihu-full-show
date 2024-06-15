@@ -23,8 +23,9 @@
 > [!CAUTION]
 > 由于作者无法注册Google开发者账户，故不提供在线安装方式
 1. 前往[发行版 (`Release`)][download-url]页面下载`extension.zip`文件
-2. 打开开发者模式（如果需要）
-3. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，只需将下载的 `extension.zip` 文件拖放到浏览器中即可完成安装。
+2. 全部解压到一个空文件夹下
+3. 打开开发者模式
+4. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，点击“加载已解压的扩展程序”，选择刚解压的位置即可完成安装。
 
 ### Firefox 或基于 Gecko 内核的浏览器
 敬请期待
