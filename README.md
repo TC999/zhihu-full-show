@@ -26,6 +26,8 @@
 2. 全部解压到一个空文件夹下
 3. 打开开发者模式
 4. 在 Edge 浏览器中打开 `edge://extensions` 或者在 Chrome 浏览器中打开 `chrome://extensions` 界面，点击“加载已解压的扩展程序”，选择刚解压的位置即可完成安装。
+>[!NOTE]
+> 如果您使用[Ungoogled-Chromium][Ungoogled-Chromuim-url]或[狐猴浏览器][LemurBrowser-url]，单击`extension.crx`即可直接安装。
 
 ### Firefox 或基于 Gecko 内核的浏览器
 敬请期待
