@@ -60,7 +60,7 @@
 [点此查看](CHANGELOG.md)
 
 ## 📝 许可证
-本仓库采用[GPL-3.0许可证][LICENSE]。
+本仓库采用[GPL-3.0许可证](LICENSE)。
 
 ## ❤️ 鸣谢
 - ChatGPT-4o - 代码编写
