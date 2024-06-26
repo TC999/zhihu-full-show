@@ -5,7 +5,7 @@
  [![GitHub forks][forks-image]][forks-url]
  [![Github Downloads][download-image]][download-url]
  [![license][license-image]][license-url]
- [![repo-size][repo-size-image]][repo-size-url]
+ ![repo-size][repo-size-image]
  [![hits][hits-image]][hits-url]
 
 ## 👋 介绍
@@ -67,16 +67,16 @@
 
 <!-- 链接开始 -->
 [issues-url]: https://github.com/TC999/zhihu-full-show/issues "议题"
-[issues-image]: https://img.shields.io/github/issues/TC999/zhihu-full-show?style=flat&logo=github&%3Fcolor%3Dgreen&label=%E8%AE%AE%E9%A2%98
+[issues-image]: https://custom-icon-badges.demolab.com/github/issues-raw/TC999/zhihu-full-show?logo=issue-opened&label=%E8%AE%AE%E9%A2%98
 
 [pulls-url]: https://github.com/TC999/zhihu-full-show/pulls "拉取请求"
-[pulls-image]: https://img.shields.io/github/issues-pr/TC999/Structura-Chinese?style=flat&logo=github&%3Fcolor%3Dgreen&label=%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82
+[pulls-image]: https://custom-icon-badges.demolab.com/github/issues-pr-raw/TC999/zhihu-full-show?style=flat&logo=git-pull-request&%3Fcolor%3Dgreen&label=%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82
 
 [stars-url]: https://github.com/TC999/zhihu-full-show/stargazers "星标"
-[stars-image]: https://img.shields.io/github/stars/TC999/zhihu-full-show?style=flat&logo=github&%3Fcolor%3Dblue&label=%E6%98%9F%E6%A0%87%E6%95%B0
+[stars-image]: https://custom-icon-badges.demolab.com/github/stars/TC999/zhihu-full-show?style=flat&logo=star&%3Fcolor%3Dblue&label=%E6%98%9F%E6%A0%87
 
 [forks-url]: https://github.com/TC999/zhihu-full-show/fork "复刻"
-[forks-image]: https://img.shields.io/github/forks/TC999/zhihu-full-show?style=flat&logo=github&%3Fcolor%3Dblue&label=%E5%A4%8D%E5%88%BB
+[forks-image]: https://custom-icon-badges.demolab.com/github/forks/TC999/zhihu-full-show?style=flat&logo=repo-forked&%3Fcolor%3Dblue&label=%E5%A4%8D%E5%88%BB
 
 [discussions-url]: https://github.com/TC999/zhihu-full-show/discussions "讨论"
 
@@ -85,16 +85,15 @@
 
 [repo-url]: https://github.com/TC999/zhihu-full-show "仓库地址"
 
-[repo-size-url]: https://img.shields.io/github/repo-size/TC999/zhihu-full-show?style=flat&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F "仓库大小"
-[repo-size-image]: https://img.shields.io/github/repo-size/TC999/zhihu-full-show?style=flat&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F
+[repo-size-image]:https://custom-icon-badges.demolab.com/github/repo-size/TC999/zhihu-full-show?style=flat&logo=file-code&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F&labelColor=3F
 
 [download-url]: https://github.com/TC999/zhihu-full-show/releases/latest "下载"
-[download-image]: https://img.shields.io/github/downloads/TC999/zhihu-full-show/total?style=flat&label=%E4%B8%8B%E8%BD%BD%E6%95%B0&%3Fcolor%3Dblue "总下载数"
+[download-image]: https://custom-icon-badges.demolab.com/github/downloads/TC999/zhihu-full-show/total?style=flat&logo=download&label=%E4%B8%8B%E8%BD%BD%E6%95%B0&%3Fcolor%3Dblue "总下载数"
 
 [LemurBrowser-url]: https://lemurbrowser.com "狐猴浏览器"
 
 [license-url]: https://github.com/TC999/zhihu-full-show/blob/master/LICENSE "许可证"
-[license-image]: https://img.shields.io/github/license/TC999/zhihu-full-show?style=flat&label=%E8%AE%B8%E5%8F%AF%E8%AF%81
+[license-image]: https://custom-icon-badges.demolab.com/github/license/TC999/zhihu-full-show?style=flat&logo=law&label=%E8%AE%B8%E5%8F%AF%E8%AF%81
 
 [Ungoogled-Chromuim-url]: https://ungoogled-software.github.io/ungoogled-chromium-binaries/ "Ungoogled-Chromuim 官网"
 
