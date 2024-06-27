@@ -81,7 +81,7 @@
 [discussions-url]: https://github.com/TC999/zhihu-full-show/discussions "讨论"
 
 [hits-url]: https://hits.dwyl.com/ "访问量"
-[hits-image]: https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTC999%2Fzhihu-full-show.json%3Fcolor%3Dgreen&label=%E8%AE%BF%E9%97%AE%E9%87%8F 
+[hits-image]: https://custom-icon-badges.demolab.com/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTC999%2Fzhihu-full-show.json%3Fcolor%3Dgreen&label=%E8%AE%BF%E9%97%AE%E9%87%8F&logo=graph 
 
 [repo-url]: https://github.com/TC999/zhihu-full-show "仓库地址"
 
